@@ -1,0 +1,1 @@
+        telat = self.__Telat
